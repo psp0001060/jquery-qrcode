@@ -38,4 +38,4 @@ You can set the height and width of the generated qrcode:
 <a href='https://github.com/jeromeetienne/jquery-qrcode'>here</a>
 under <a href='https://github.com/jeromeetienne/jquery-qrcode/blob/master/MIT-LICENSE.txt'>MIT license</a>.
 If you hit bugs, fill issues on github.
-Feel free to fork, modify and have fun with it :)
+Feel free to fork, modify and have fun with it :).
